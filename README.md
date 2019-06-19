@@ -1,0 +1,2 @@
+# ExercisesClassPython
+Class Exercises
