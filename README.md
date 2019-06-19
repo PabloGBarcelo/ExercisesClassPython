@@ -1,2 +1,2 @@
-# ExercisesClassPython
-Class Exercises
+# Correcciones
+Corrección de ejercicios enviados.
