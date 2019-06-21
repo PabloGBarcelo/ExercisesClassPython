@@ -11,3 +11,20 @@ def findSecondLargest(aList):
       return check 
 
 print(findSecondLargest(nums))
+
+'''
+nums = [1,'a','2',4,3,3,5,'b']
+
+def findSecondLargest(aList):
+  # Sort order
+  removedStr = [x for x in aList if not isinstance(x, str)]
+  removedStr.sort(reverse=1)
+  ###### OK
+  for x in range(len(removedStr)):
+    if removedStr[0] > removedStr[x]:
+      return None if removedStr[x] in removedStr[x+1:] \
+                  else removedStr[x]
+      #valor_si if condicion else valor_no
+
+print(findSecondLargest(nums))
+'''
