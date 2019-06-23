@@ -17,3 +17,13 @@ Try to make with 2 typs of loops.
 
 - Extra
 Try to make in pythonic way
+
+Exercise 3 (optional):
+
+https://www.codewars.com/kata/sums-of-parts/python
+
+- Tips
+Check info about iterate over arrays.
+
+- Extra
+Use function recursive
