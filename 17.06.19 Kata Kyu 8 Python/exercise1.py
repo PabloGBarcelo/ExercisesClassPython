@@ -1,3 +1,4 @@
+
 str = "The greatest victory is that which requires no battle"
 
 def reverse(string):
